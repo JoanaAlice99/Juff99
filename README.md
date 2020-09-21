@@ -1,11 +1,14 @@
 # Hi there 👋
 
 I'm Ju, a Fullstack WEB Developer & Beginner 3D Artist.
+
 My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
+
+Sometimes i also like to play CTF's
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" />](https://www.artstation.com/juthecutie) 
  
- ##### [My ArtStation](https://www.artstation.com/juthecutie)
+ ##### [_My ArtStation](https://www.artstation.com/juthecutie)
 
 # Projects
 ![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=f1-2020-restful-api)
@@ -13,8 +16,12 @@ My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=TCP_Reverse-Bind_Shell)
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=chat-app)
+## Some CTF's Writeups
+![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=picoCTF2018)
 
 # Stats
+![](https://github-readme-stats.vercel.app/api?username=juthecutie&theme=cobalt)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
 
 <!--
