@@ -18,6 +18,7 @@ My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
 ![](https://github-readme-stats.vercel.app/api?username=juthecutie&theme=cobalt)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
+
 <!--
 **JuTheCutie/JuTheCutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
