@@ -5,7 +5,7 @@ My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" /> 
  
- ##### [_My ArtStation](https://www.artstation.com/juthecutie)
+ [_My ArtStation](https://www.artstation.com/juthecutie)
 
 # Projects
 ![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=f1-2020-restful-api)
