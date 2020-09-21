@@ -20,8 +20,6 @@ Sometimes i also like to play CTF's
 ![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=picoCTF2018)
 
 # Stats
-![](https://github-readme-stats.vercel.app/api?username=juthecutie&theme=cobalt)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
 
 <!--
