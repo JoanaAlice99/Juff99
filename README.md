@@ -10,15 +10,6 @@ Sometimes i also like to play CTF's
  
  ##### [My ArtStation](https://www.artstation.com/juthecutie)
 
-# Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=f1-2020-restful-api)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=TCP_Reverse-Bind_Shell)
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=chat-app)
-## Some CTF's Writeups
-![](https://github-readme-stats.vercel.app/api/pin/?username=juthecutie&repo=picoCTF2018)
-
 # Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
 
