@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Ju 👋
 
-I'm Ju, a Fullstack WEB Developer & Beginner 3D Artist.
+A Fullstack WEB Developer & Beginner 3D Artist.
 
 My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
 
