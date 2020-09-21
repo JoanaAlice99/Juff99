@@ -17,6 +17,7 @@ My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
 # Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
