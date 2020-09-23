@@ -2,7 +2,7 @@
 
 A Fullstack WEB Developer & Beginner 3D Artist.
 
-My favourite WEB development stack is MERN (MongoDB, ExpressJS, React, NodeJS)
+My favourite WEB development stack is MEVN (MongoDB, ExpressJS, VueJS, NodeJS)
 
 Sometimes i also like to play CTF's
 
