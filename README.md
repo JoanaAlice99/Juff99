@@ -11,7 +11,7 @@ Sometimes i also like to play CTF's
  ##### [My ArtStation](https://www.artstation.com/juthecutie)
 
 # Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=[html,css]&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&hide=css&theme=cobalt)
 
 <!--
 Here are some ideas to get you started:
