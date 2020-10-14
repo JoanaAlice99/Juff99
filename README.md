@@ -1,4 +1,4 @@
-# Hi there, I'm Joel 👋
+# Hi there, I'm Ju 👋
 
 A Fullstack WEB Developer & Beginner 3D Artist.
 
