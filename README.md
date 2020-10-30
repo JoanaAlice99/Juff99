@@ -25,9 +25,9 @@ Sometimes i also like to play CTF's
 
 <img align="left" alt="vscode" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/>
 
-<img align="left" alt="vscode" width="100px" src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png"/>
+<img align="left" alt="vscode" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
 
-<img align="" alt="vscode" width="100px" src="https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg"/>
+<img align="" alt="vscode" width="100px" src="https://angular.io/assets/images/logos/angular/angular.png"/>
 
 <br><br>
 
