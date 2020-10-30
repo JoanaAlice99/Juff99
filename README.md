@@ -10,16 +10,22 @@ Sometimes i also like to play CTF's
  
  ##### [My ArtStation](https://www.artstation.com/juthecutie)
  
- ### Tools I Use
+ # Tools I Use
  ![vscode](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png =75x)
+
  ![nodejs](https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png =150x)
- ![nodejs](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/768px-Deno.svg.png =100x)
- ![expressjs](https://transang.me/content/images/2019/11/ExpressJS.png =200x)
- ![mongodb](https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png =200x)
- ![mysql](https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png =150x)
- ![postgresql](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png =100x)
  
-### Stats
+![nodejs](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/768px-Deno.svg.png =100x)
+
+![expressjs](https://transang.me/content/images/2019/11/ExpressJS.png =200x)
+
+![mongodb](https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png =200x)
+
+![mysql](https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png =150x)
+
+![postgresql](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png =100x)
+ 
+# Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
 
 <!--
