@@ -38,7 +38,7 @@ Sometimes i also like to play CTF's
 <img align="" alt="vscode" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
 
 # Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juthecutie&hide=html,css&theme=cobalt)
 
 <!--
 Here are some ideas to get you started:
